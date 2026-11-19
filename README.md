@@ -4,6 +4,7 @@
 Ausgeliefert über Cloudflare Pages unter **https://media.podetto.de** (kein Build-Schritt).
 
 Hier liegen nur fertige, veröffentlichte Grafiken. Keine Entwürfe, keine Fotos von Personen, keine personenbezogenen Daten.
+Ausnahme: offizielle Podcast-Cover in Hörtipp-Grafiken, auch wenn darauf Personen zu sehen sind.
 
 ## Ordner
 
@@ -11,6 +12,7 @@ Hier liegen nur fertige, veröffentlichte Grafiken. Keine Entwürfe, keine Fotos
 |---|---|
 | `social/hoertipps/` | Hörtipp-Grafiken |
 | `social/eltern-alltag/` | Beiträge zum Familienalltag |
+| `social/kanal/` | Beiträge über den Kanal selbst (z. B. Begrüßung) |
 | `social/changelog/YYYY/` | Grafiken zu Neuigkeiten, nach Jahr |
 
 ## Dateinamen
